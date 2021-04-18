@@ -1,0 +1,75 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.baolar.autopie"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+11-->C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:6:5-81
+11-->C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:6:22-78
+12    <uses-permission android:name="android.permission.CAMERA" />
+12-->C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:7:5-65
+12-->C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:7:22-62
+13    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+13-->C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:8:5-71
+13-->C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:8:22-68
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:9:5-80
+14-->C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:9:22-78
+15    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+15-->C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:10:5-11:47
+15-->C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:10:22-81
+16
+17    <application
+17-->C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:14:5-28:19
+18        android:allowBackup="true"
+18-->C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:15:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.1.0-beta01] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\27b3dd0f430652e3ec3bc44a3eb80ca8\core-1.1.0-beta01\AndroidManifest.xml:22:18-86
+20        android:debuggable="true"
+21        android:icon="@mipmap/ic_launcher"
+21-->C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:16:9-43
+22        android:label="@string/app_name"
+22-->C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:17:9-41
+23        android:roundIcon="@mipmap/ic_launcher_round"
+23-->C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:18:9-54
+24        android:supportsRtl="true"
+24-->C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:19:9-35
+25        android:theme="@style/Theme.AppCompat.NoActionBar" >
+25-->C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:20:9-59
+26        <activity android:name="com.baolar.autopie.MainActivity" >
+26-->C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:21:9-27:20
+26-->C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:21:19-47
+27            <intent-filter>
+27-->C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:22:13-26:29
+28                <action android:name="android.intent.action.MAIN" />
+28-->C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:23:17-68
+28-->C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:23:25-66
+29
+30                <category android:name="android.intent.category.LAUNCHER" />
+30-->C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:25:17-76
+30-->C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:25:27-74
+31            </intent-filter>
+32        </activity>
+33
+34        <provider
+34-->[androidx.camera:camera-camera2:1.0.0-alpha01] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\410a2da1bde31ae55d5622fb1634d82d\jetified-camera-camera2-1.0.0-alpha01\AndroidManifest.xml:23:9-28:43
+35            android:name="androidx.camera.camera2.impl.Camera2Initializer"
+35-->[androidx.camera:camera-camera2:1.0.0-alpha01] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\410a2da1bde31ae55d5622fb1634d82d\jetified-camera-camera2-1.0.0-alpha01\AndroidManifest.xml:24:13-75
+36            android:authorities="com.baolar.autopie.camerax-init"
+36-->[androidx.camera:camera-camera2:1.0.0-alpha01] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\410a2da1bde31ae55d5622fb1634d82d\jetified-camera-camera2-1.0.0-alpha01\AndroidManifest.xml:25:13-64
+37            android:exported="false"
+37-->[androidx.camera:camera-camera2:1.0.0-alpha01] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\410a2da1bde31ae55d5622fb1634d82d\jetified-camera-camera2-1.0.0-alpha01\AndroidManifest.xml:26:13-37
+38            android:initOrder="100"
+38-->[androidx.camera:camera-camera2:1.0.0-alpha01] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\410a2da1bde31ae55d5622fb1634d82d\jetified-camera-camera2-1.0.0-alpha01\AndroidManifest.xml:27:13-36
+39            android:multiprocess="true" />
+39-->[androidx.camera:camera-camera2:1.0.0-alpha01] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\410a2da1bde31ae55d5622fb1634d82d\jetified-camera-camera2-1.0.0-alpha01\AndroidManifest.xml:28:13-40
+40    </application>
+41
+42</manifest>

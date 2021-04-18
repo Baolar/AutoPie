@@ -1,0 +1,2 @@
+com/baolar/autopie/BuildConfig.java
+ com.baolar.autopie.BuildConfig

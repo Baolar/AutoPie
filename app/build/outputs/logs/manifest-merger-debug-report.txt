@@ -1,0 +1,183 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:2:1-30:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha05] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\1de7ad8c956496983907b0db2ecd39dc\appcompat-1.1.0-alpha05\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.camera:camera-camera2:1.0.0-alpha01] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\410a2da1bde31ae55d5622fb1634d82d\jetified-camera-camera2-1.0.0-alpha01\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.camera:camera-core:1.0.0-alpha01] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\68b35d86ba8cbde8103a1b461f0f1946\jetified-camera-core-1.0.0-alpha01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0-alpha08] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\317f89bd7d1e7e9cf9b05dad45ed9e28\fragment-1.1.0-alpha08\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-alpha05] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\25ef3a37aee4f2ae2b809bb5c82dc7b0\jetified-appcompat-resources-1.1.0-alpha05\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\d8f137a5aaec9aee031348d98c86a263\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\2c128e7602d6bb34e9a85ebe44318369\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\b2015d663f7153641c4a535ba3e220fc\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0-alpha08] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\59dcccad80ad55a75b90a4ff585abad5\jetified-activity-1.0.0-alpha08\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-beta01] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\3e78ffd60acb6d3bf9ef0b0ce6a9c13d\vectordrawable-animated-1.1.0-beta01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-beta01] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\e68c73cfc87f7a3efeeff3e9acffdb5e\vectordrawable-1.1.0-beta01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\a19ff9ce22cf45de56e0d74e5842eaf3\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-beta01] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\27b3dd0f430652e3ec3bc44a3eb80ca8\core-1.1.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\e74f6ebf6fb228831556c16a5f8510e8\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\b829576802764278d934e69c98584a66\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\4aeaf41a2d0d0b56736fda1911900b27\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\6cb4ff2e4a11e816c517a0179ebe7742\versionedparcelable-1.1.0-beta01\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-alpha01] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\07f88f2ff18caf6000d55f4140e4b183\lifecycle-viewmodel-2.2.0-alpha01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0-beta01] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\267bf1e66117b4a57a8dbf5706e275d0\jetified-savedstate-1.0.0-beta01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\efbbe0368b31fe1ba8487b240152aef4\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\19102a935862607a2ba809ba34d06223\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\8f303fbec44800507428cf5f57b2b5b8\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\c469d6ed97143be8863bcf7fbf18c983\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0-alpha01] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\83366175a3e81420f60f4dd4f6d41c0c\lifecycle-runtime-2.2.0-alpha01\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:4:5-33
+		INJECTED from C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:7:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:8:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:10:5-11:47
+	tools:ignore
+		ADDED from C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:11:9-44
+	android:name
+		ADDED from C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:10:22-81
+application
+ADDED from C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:14:5-28:19
+MERGED from [androidx.camera:camera-camera2:1.0.0-alpha01] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\410a2da1bde31ae55d5622fb1634d82d\jetified-camera-camera2-1.0.0-alpha01\AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.camera:camera-camera2:1.0.0-alpha01] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\410a2da1bde31ae55d5622fb1634d82d\jetified-camera-camera2-1.0.0-alpha01\AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.core:core:1.1.0-beta01] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\27b3dd0f430652e3ec3bc44a3eb80ca8\core-1.1.0-beta01\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.1.0-beta01] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\27b3dd0f430652e3ec3bc44a3eb80ca8\core-1.1.0-beta01\AndroidManifest.xml:22:5-89
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\e74f6ebf6fb228831556c16a5f8510e8\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\e74f6ebf6fb228831556c16a5f8510e8\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\6cb4ff2e4a11e816c517a0179ebe7742\versionedparcelable-1.1.0-beta01\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\6cb4ff2e4a11e816c517a0179ebe7742\versionedparcelable-1.1.0-beta01\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-beta01] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\27b3dd0f430652e3ec3bc44a3eb80ca8\core-1.1.0-beta01\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:19:9-35
+	android:label
+		ADDED from C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:17:9-41
+	android:roundIcon
+		ADDED from C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:18:9-54
+	android:icon
+		ADDED from C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:20:9-59
+activity#com.baolar.autopie.MainActivity
+ADDED from C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:21:9-27:20
+	android:name
+		ADDED from C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:21:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:23:17-68
+	android:name
+		ADDED from C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:25:17-76
+	android:name
+		ADDED from C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml:25:27-74
+uses-sdk
+INJECTED from C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha05] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\1de7ad8c956496983907b0db2ecd39dc\appcompat-1.1.0-alpha05\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha05] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\1de7ad8c956496983907b0db2ecd39dc\appcompat-1.1.0-alpha05\AndroidManifest.xml:20:5-44
+MERGED from [androidx.camera:camera-camera2:1.0.0-alpha01] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\410a2da1bde31ae55d5622fb1634d82d\jetified-camera-camera2-1.0.0-alpha01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.camera:camera-camera2:1.0.0-alpha01] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\410a2da1bde31ae55d5622fb1634d82d\jetified-camera-camera2-1.0.0-alpha01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.camera:camera-core:1.0.0-alpha01] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\68b35d86ba8cbde8103a1b461f0f1946\jetified-camera-core-1.0.0-alpha01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.camera:camera-core:1.0.0-alpha01] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\68b35d86ba8cbde8103a1b461f0f1946\jetified-camera-core-1.0.0-alpha01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha08] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\317f89bd7d1e7e9cf9b05dad45ed9e28\fragment-1.1.0-alpha08\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha08] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\317f89bd7d1e7e9cf9b05dad45ed9e28\fragment-1.1.0-alpha08\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-alpha05] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\25ef3a37aee4f2ae2b809bb5c82dc7b0\jetified-appcompat-resources-1.1.0-alpha05\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-alpha05] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\25ef3a37aee4f2ae2b809bb5c82dc7b0\jetified-appcompat-resources-1.1.0-alpha05\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\d8f137a5aaec9aee031348d98c86a263\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\d8f137a5aaec9aee031348d98c86a263\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\2c128e7602d6bb34e9a85ebe44318369\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\2c128e7602d6bb34e9a85ebe44318369\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\b2015d663f7153641c4a535ba3e220fc\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\b2015d663f7153641c4a535ba3e220fc\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha08] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\59dcccad80ad55a75b90a4ff585abad5\jetified-activity-1.0.0-alpha08\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha08] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\59dcccad80ad55a75b90a4ff585abad5\jetified-activity-1.0.0-alpha08\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-beta01] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\3e78ffd60acb6d3bf9ef0b0ce6a9c13d\vectordrawable-animated-1.1.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-beta01] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\3e78ffd60acb6d3bf9ef0b0ce6a9c13d\vectordrawable-animated-1.1.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-beta01] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\e68c73cfc87f7a3efeeff3e9acffdb5e\vectordrawable-1.1.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-beta01] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\e68c73cfc87f7a3efeeff3e9acffdb5e\vectordrawable-1.1.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\a19ff9ce22cf45de56e0d74e5842eaf3\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\a19ff9ce22cf45de56e0d74e5842eaf3\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-beta01] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\27b3dd0f430652e3ec3bc44a3eb80ca8\core-1.1.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-beta01] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\27b3dd0f430652e3ec3bc44a3eb80ca8\core-1.1.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\e74f6ebf6fb228831556c16a5f8510e8\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\e74f6ebf6fb228831556c16a5f8510e8\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\b829576802764278d934e69c98584a66\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\b829576802764278d934e69c98584a66\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\4aeaf41a2d0d0b56736fda1911900b27\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\4aeaf41a2d0d0b56736fda1911900b27\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\6cb4ff2e4a11e816c517a0179ebe7742\versionedparcelable-1.1.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-beta01] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\6cb4ff2e4a11e816c517a0179ebe7742\versionedparcelable-1.1.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-alpha01] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\07f88f2ff18caf6000d55f4140e4b183\lifecycle-viewmodel-2.2.0-alpha01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-alpha01] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\07f88f2ff18caf6000d55f4140e4b183\lifecycle-viewmodel-2.2.0-alpha01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-beta01] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\267bf1e66117b4a57a8dbf5706e275d0\jetified-savedstate-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-beta01] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\267bf1e66117b4a57a8dbf5706e275d0\jetified-savedstate-1.0.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\efbbe0368b31fe1ba8487b240152aef4\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\efbbe0368b31fe1ba8487b240152aef4\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\19102a935862607a2ba809ba34d06223\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\19102a935862607a2ba809ba34d06223\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\8f303fbec44800507428cf5f57b2b5b8\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\8f303fbec44800507428cf5f57b2b5b8\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\c469d6ed97143be8863bcf7fbf18c983\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\c469d6ed97143be8863bcf7fbf18c983\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0-alpha01] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\83366175a3e81420f60f4dd4f6d41c0c\lifecycle-runtime-2.2.0-alpha01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0-alpha01] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\83366175a3e81420f60f4dd4f6d41c0c\lifecycle-runtime-2.2.0-alpha01\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TensorGO\AndroidStudioProjects\AutoPie\app\src\main\AndroidManifest.xml
+provider#androidx.camera.camera2.impl.Camera2Initializer
+ADDED from [androidx.camera:camera-camera2:1.0.0-alpha01] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\410a2da1bde31ae55d5622fb1634d82d\jetified-camera-camera2-1.0.0-alpha01\AndroidManifest.xml:23:9-28:43
+	android:authorities
+		ADDED from [androidx.camera:camera-camera2:1.0.0-alpha01] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\410a2da1bde31ae55d5622fb1634d82d\jetified-camera-camera2-1.0.0-alpha01\AndroidManifest.xml:25:13-64
+	android:multiprocess
+		ADDED from [androidx.camera:camera-camera2:1.0.0-alpha01] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\410a2da1bde31ae55d5622fb1634d82d\jetified-camera-camera2-1.0.0-alpha01\AndroidManifest.xml:28:13-40
+	android:exported
+		ADDED from [androidx.camera:camera-camera2:1.0.0-alpha01] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\410a2da1bde31ae55d5622fb1634d82d\jetified-camera-camera2-1.0.0-alpha01\AndroidManifest.xml:26:13-37
+	android:initOrder
+		ADDED from [androidx.camera:camera-camera2:1.0.0-alpha01] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\410a2da1bde31ae55d5622fb1634d82d\jetified-camera-camera2-1.0.0-alpha01\AndroidManifest.xml:27:13-36
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.0.0-alpha01] C:\Users\TensorGO\.gradle\caches\transforms-2\files-2.1\410a2da1bde31ae55d5622fb1634d82d\jetified-camera-camera2-1.0.0-alpha01\AndroidManifest.xml:24:13-75
